@@ -616,8 +616,9 @@ input.inline {
 
 .btn-login {
     background-color: transparent;
+    border-color: white;
     box-shadow: none;
-    color: #00FF00;
+    color: navajowhite;
 }
 
 .btn-login:focus,
